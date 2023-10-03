@@ -11,3 +11,7 @@ npm i express mongoose
 npm install morgan | npm install mongoose-morgan | npm install --save morgan
 
 npm install ejs
+
+npm install mongodb
+
+
